@@ -1,0 +1,2 @@
+./dataset\base_ds\24.wav
+./dataset\base_ds\268Media2-Singing.wav

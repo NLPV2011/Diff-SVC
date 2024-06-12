@@ -1,0 +1,10 @@
+./dataset\base_ds\166Media2-Singing.wav
+./dataset\base_ds\20Media3-Singing.wav
+./dataset\base_ds\510.wav
+./dataset\base_ds\142.wav
+./dataset\base_ds\555.wav
+./dataset\base_ds\126Media2-Singing.wav
+./dataset\base_ds\497.wav
+./dataset\base_ds\11Media2-Singing.wav
+./dataset\base_ds\57Media2-Singing.wav
+./dataset\base_ds\332.wav
