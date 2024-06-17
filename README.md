@@ -1,7 +1,7 @@
 # Diff-SVC Refactor (Inference, training and model code simplifier and updated from RCell's [Diff-SVC](https://github.com/innnky/diff-svc/))
 [diffsvc](https://github.com/prophesier/diff-svc) implemented based on [DiffSinger unofficial repository](https://github.com/keonlee9420/DiffSinger)
 
-> It is still under development and testing, training and inference code are fully completed
+> It is still under development and testing, training and inference code are fully completed \
 > The conclusion of the temporary test is that when the number of people in the data set is too large (for example, 60 or 70 people), the sound leakage will be aggravated, and the sound leakage of about 5 people is basically the same as that of a single person\
 > At present, you can see that there are a lot of branches, all of which are various solutions under testing \
 
